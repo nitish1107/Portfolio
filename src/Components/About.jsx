@@ -32,9 +32,9 @@ export default function About() {
       <div className="grid gap-12 md:grid-cols-2">
 
         <p>
-          I’m a Computer Science and Engineering student at Chandigarh University with a focus on
-          C++, MySQL, data analytics and machine learning. I like turning messy data into something
-          people can use, and I work best on collaborative problems with real-world impact.
+          I’m a Computer Science and Engineering student passionate about Data Science ,
+          Machine Learning and AI. I like turning messy data into meaningful insights
+          and I'm always eager to learn, innovate and solve real-world problems.
         </p>
         <div className="grid grid-cols-3 gap-3.5">
           {STATS.map((s) => (
