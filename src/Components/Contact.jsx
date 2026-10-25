@@ -22,7 +22,6 @@ export default function Contact() {
       <p className="text-mute">Open to data science and machine learning opportunities.</p>
       <div className="mt-5 flex flex-wrap justify-center gap-3">
         <a href={`mailto:${CONTACT.email}`} className={`${btn} border-accent bg-accent text-[#150f26]`}>Email me</a>
-        <button onClick={() => copy(CONTACT.email)} className={btn}>Copy email</button>
         <a href={CONTACT.linkedin} target="_blank" rel="noopener noreferrer" className={btn}>LinkedIn</a>
         <a href={CONTACT.github} target="_blank" rel="noopener noreferrer" className={btn}>GitHub</a>
       </div>
