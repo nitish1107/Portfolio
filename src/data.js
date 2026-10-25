@@ -78,7 +78,6 @@ export const LANGUAGES = [
 
 export const CONTACT = {
   email: "adinit121@gmail.com",
-  phone: "9140380379",
-  linkedin: "https://linkedin.com/in/nitish-kumar",
+  linkedin: "https://linkedin.com/in/nitish-kumar-77575624b",
   github: "https://github.com/nitish1107",
 };
